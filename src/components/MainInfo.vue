@@ -8,7 +8,7 @@
             <p class="text-lg font-medium font-lg text-[#929EB0] mt-6">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, eos nostrum
                 necessitatibus, ipsum velit incidunt consequatur magnam consequuntur harum maxime, vero ut consectetur
-                asperiores? Atque!
+                asperiores? Atque!!
             </p>
             <a href="../assets/resume.pdf" download="">
             <button class="p-4 rounded-[60px] w-72 text-lg bg-gradient-to-r from-[#945DD6] via-[#6978D1] to-[#13ADC7]">
