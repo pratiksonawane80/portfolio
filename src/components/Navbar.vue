@@ -7,8 +7,8 @@
             <li class="px-8">About me</li>
         </ul>
         <div class="flex">
-            <a href="" target="_blank"><img src="../assets/Linkdin.png" alt="linkdin" height="27" width="27" class="mx-4" @click="goToLink('Linkdin')"></a>
-            <a href="" target="_blank"><img src="../assets/Linkdin.png" alt="github" height="27" width="27" class="mx-4" @click="goToLink('Github')"></a>
+            <a href="" target="_blank"><img src="../assets/linkdin.png" alt="linkdin" height="27" width="27" class="mx-4" @click="goToLink('Linkdin')"></a>
+            <a href="" target="_blank"><img src="../assets/linkdin.png" alt="github" height="27" width="27" class="mx-4" @click="goToLink('Github')"></a>
         </div>
     </div>
 </template>
