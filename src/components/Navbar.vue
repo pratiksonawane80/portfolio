@@ -22,17 +22,17 @@
             }
         },
         methods: {
-            goToLink(platform) {
-                switch (platform) {
-                    case Linkdin:
-                        Window.op
-                        break;
-                    case Github:
+            // goToLink(platform) {
+            //     switch (platform) {
+            //         case Linkdin:
+            //             Window.op
+            //             break;
+            //         case Github:
                 
-                    default:
-                        break;
-                }
-            }
+            //         default:
+            //             break;
+            //     }
+            // }
         }
     }
 </script>
