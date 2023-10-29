@@ -26,6 +26,11 @@
 
 <script>
 export default {
-    name: "MainInfo"
+    name: "MainInfo",
+    data() {
+        return {
+            page: ""
+        }
+    }
 }
 </script>
